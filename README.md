@@ -1,2 +1,1 @@
-# StudyNotion
-My Project exploring the powers of MERN.
+# StudyNotion Edtech Project
